@@ -42,7 +42,14 @@ header {
     font-weight: 600;
 }
 
-.navigation a:hover, .navigation a.active {
+.navigation a:hover{
+    background: #359381;
+    color: white;
+    transition: 1s;
+}
+
+
+.navigation a.active {
     background: #359381;
     color: white;
 }
