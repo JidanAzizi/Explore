@@ -139,6 +139,16 @@ button{
     text-decoration: underline;
 }
 
+.check-box input{
+    accent-color: #fa709a;
+}
+
+.check-box label{
+    color: white;
+    font-size: .9em;
+    font-weight: lighter;
+}
+
 .blob{
     position: absolute;
     width: 500px;
